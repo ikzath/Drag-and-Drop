@@ -72,7 +72,7 @@ hr.separetor{
 HERO AREA
 ================================*/
 #hero{
-    color: #fff;
+    color: blue;
     text-align: center;
     background: url(../img/trianglify-background.svg)no-repeat; /*your background image*/
     background-size: cover;
